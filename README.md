@@ -5,29 +5,21 @@ WANG HUIMIN（おう けいみん）と申します。
 ソフトウェア開発を中心に学んでいます（2027年卒業予定）。  
 
 ---
-# プロフィール・興味
+## プロフィール・興味
 
 中国出身です。
 中国の大学で卒業後、データエンジニアとして、データ管理やETL処理、BIシステムの開発に携わってきました。  
 2020年から日本に移住しました。データ分析やWebアプリケーション開発に強い関心を持ちます。
+チームで協力しながら課題を解決すること、  
+そして新しい技術を学び続けることが自分の強みです。
 
 ---
-
-# 技術スタック
-できるだけ詳しく書く
-いつから触っているか　理解度
-フロントエンド技術　hTML/CSS
-バックエンド技術　JAVA Kotlin
-
-# 興味がある　今後触ってみたい技術
-もしあれば書くといいです
-
-## 🛠 スキル
+## 🛠 技術スタック
 ### 過去の経験
 - データエンジニア（DWH/ETL 開発・運用 10年以上）
 - データベース設計・運用（Oracle, SQL Server, MySQL）  
-- データウェアハウス / ETL 開発 （Informatica, PL/SQL） 
-- データ分析・BIシステム(FineBI)  
+- ETL 開発 （Informatica, PL/SQL） 
+- BIシステム(FineBI)  
 
 ### 現在学習中
 - 言語: Java, JavaScript, TypeScript, Python, Kotlin  
@@ -36,6 +28,13 @@ WANG HUIMIN（おう けいみん）と申します。
 - その他: Git, Docker,Linux  
 
 ---
+## 🧩 プロジェクト一覧
+
+| プロジェクト名 | 使用技術 | 概要 |
+|----------------|-----------|------|
+| [NHK番組情報アプリ](https://github.com/your-username/nhk-app) | Next.js / Supabase / Prisma | NHKのAPIを利用して、東京のニュース・ドラマ番組を一覧表示するWebアプリ。 |
+| [迷宮ゲーム](https://github.com/your-username/maze-game) | Java | クラス設計と継承を用いた日本語迷宮ゲーム。プレイヤーの移動履歴を記録。 |
+| [パン屋紹介サイト](https://github.com/your-username/bakery-site) | Next.js / HTML / CSS | おすすめのパン屋「かめしまぱん」を紹介する静的サイト。Carouselで店舗雰囲気を表現。 |
 
 ## 📌 プロジェクト紹介
 - 📝 [簡単メモアプリ](https://github.com/username/memo-app)  
@@ -44,7 +43,13 @@ WANG HUIMIN（おう けいみん）と申します。
 
 ---
 
-## 📊 連絡先
+## 興味がある　今後触ってみたい技術
+もしあれば書くといいです
+
+## 🔗 連絡先・リンク
+
+- GitHub：[github.com/WANGHUIMIN](https://github.com/itc-ss24007)
+- Email：s24007@std.it-college.ac.jp
 
 
 <!--
