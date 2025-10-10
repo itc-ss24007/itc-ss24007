@@ -45,7 +45,7 @@ WANG HUIMIN（おう けいみん）と申します。
 ## 🔗 連絡先・リンク
 
 - GitHub：[github.com/WANGHUIMIN](https://github.com/itc-ss24007)
-- Slack:[https://it-college.slack.com/archives/D06T9GSN057]
+- Slack:[WANGHUIMIN](https://it-college.slack.com/archives/D06T9GSN057)
 - Email：s24007@std.it-college.ac.jp
 
 
