@@ -32,7 +32,7 @@ WANG HUIMIN（おう けいみん）と申します。
 
 | プロジェクト名 | 使用技術 | 概要 |
 |----------------|-----------|------|
-| [NHK番組情報アプリ](https://github.com/your-username/nhk-app) | Next.js / Supabase / Prisma | NHKのAPIを利用して、東京のニュース・ドラマ番組を一覧表示するWebアプリ。 |
+| [NHK番組情報アプリ](https://web-app1-nhk.vercel.app/) | Next.js TypeScript Bootstrap Vercel | NHKのAPIを利用して、東京のニュース・ドラマ番組を一覧表示するWebアプリ。 |
 | [迷宮ゲーム](https://github.com/your-username/maze-game) | Java | クラス設計と継承を用いた日本語迷宮ゲーム。プレイヤーの移動履歴を記録。 |
 | [パン屋紹介サイト](https://github.com/your-username/bakery-site) | Next.js / HTML / CSS | おすすめのパン屋「かめしまぱん」を紹介する静的サイト。Carouselで店舗雰囲気を表現。 |
 
@@ -42,10 +42,6 @@ WANG HUIMIN（おう けいみん）と申します。
 - 📺 [NHK番組情報サイト](https://github.com/username/nhk-program-viewer)  
 
 ---
-
-## 興味がある　今後触ってみたい技術
-もしあれば書くといいです
-
 ## 🔗 連絡先・リンク
 
 - GitHub：[github.com/WANGHUIMIN](https://github.com/itc-ss24007)
