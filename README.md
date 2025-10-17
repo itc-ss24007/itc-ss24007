@@ -31,14 +31,15 @@ WANG HUIMIN（おう けいみん）と申します。
 
 | プロジェクト名 |  概要 | 使用技術 |
 |----------------|-----------|------|
+| [おすすめの店紹介サイト](https://github.com/your-username/bakery-site) | ITカレッジ沖縄の近くに、おすすめの店を紹介する静的サイト。| HTML / CSS　/ Bootstrap |
 | [NHK番組情報アプリ](https://web-app1-nhk.vercel.app/) | NHKのAPIを利用して、東京のニュース・ドラマ番組を一覧表示するWebアプリ。 | Next.js / TypeScript / Bootstrap / Vercel |
 | [迷宮ゲーム](https://github.com/your-username/maze-game) | クラス設計と継承を用いた日本語迷宮ゲーム。プレイヤーの移動履歴を記録。 | Java |
-| [パン屋紹介サイト](https://github.com/your-username/bakery-site) | おすすめのパン屋「かめしまぱん」を紹介する静的サイト。Carouselで店舗雰囲気を表現。 | Next.js / HTML / CSS |
 
-## 📌 プロジェクト紹介
-- 📝 [簡単メモアプリ](https://github.com/username/memo-app)  
-- 🍞 [かめしまぱん紹介サイト](https://github.com/username/kameshima-pan)  
-- 📺 [NHK番組情報サイト](https://github.com/itc-ss24007/my_project_nhk)  
+
+## 📌 プロジェクト紹介  
+- 🍞 [おすすめの店紹介サイト](https://github.com/itc-ss24007/My-Recommended-Shops-Website)  
+- 📺 [NHK番組情報サイト](https://github.com/itc-ss24007/my_project_nhk)
+- 📝 [簡単メモアプリ](https://github.com/username/memo-app)
 
 ---
 ## 🔗 連絡先・リンク
