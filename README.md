@@ -31,7 +31,7 @@ WANG HUIMIN（おう けいみん）と申します。
 
 | プロジェクト名 |  概要 | 使用技術 |
 |----------------|-----------|------|
-| [おすすめの店紹介サイト]| ITカレッジ沖縄の近くに、おすすめの店を紹介する静的サイト。| HTML / CSS　/ Bootstrap |
+| おすすめの店紹介サイト| ITカレッジ沖縄の近くに、おすすめの店を紹介する静的サイト。| HTML / CSS / Bootstrap |
 | [NHK番組情報アプリ](https://web-app1-nhk.vercel.app/) | NHKのAPIを利用して、東京のニュース・ドラマ番組を一覧表示するWebアプリ。 | Next.js / TypeScript / Bootstrap / Vercel |
 | [迷宮ゲーム](https://github.com/your-username/maze-game) | クラス設計と継承を用いた日本語迷宮ゲーム。プレイヤーの移動履歴を記録。 | Java |
 
