@@ -31,15 +31,15 @@ WANG HUIMIN（おう けいみん）と申します。
 
 | プロジェクト名 |  概要 | 使用技術 |
 |----------------|-----------|------|
-| おすすめの店紹介サイト| ITカレッジ沖縄の近くに、おすすめの店を紹介する静的サイト。| HTML / CSS / Bootstrap |
+| おすすめのお店紹介サイト| ITカレッジ沖縄の近くに、美味しいレストランやお菓子屋さんとかおすすめの店を紹介する静的サイト。| HTML / CSS / Bootstrap |
 | [NHK番組情報アプリ](https://web-app1-nhk.vercel.app/) | NHKのAPIを利用して、東京のニュース・ドラマ番組を一覧表示するWebアプリ。 | Next.js / TypeScript / Bootstrap / Vercel |
-| [迷宮ゲーム](https://github.com/your-username/maze-game) | クラス設計と継承を用いた日本語迷宮ゲーム。プレイヤーの移動履歴を記録。 | Java |
+| ToDo&メモアプリ | カレンダー型のスケジュール管理とメモ管理アプリ | Next.js / TypeScript / Supabase / Vercel |
 
 
 ## 📌 プロジェクト紹介  
 - 🍞 [おすすめの店紹介サイト](https://github.com/itc-ss24007/My-Recommended-Shops-Website)  
 - 📺 [NHK番組情報サイト](https://github.com/itc-ss24007/my_project_nhk)
-- 📝 [簡単メモアプリ](https://github.com/username/memo-app)
+- 📝 [ToDo&メモアプリ](https://github.com/itc-ss24007/my_pbl_todo_supabase_2025)
 
 ---
 ## 🔗 連絡先・リンク
