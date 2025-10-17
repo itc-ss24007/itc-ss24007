@@ -10,8 +10,7 @@ WANG HUIMIN（おう けいみん）と申します。
 中国出身です。
 中国の大学で卒業後、データエンジニアとして、データ管理やETL処理、BIシステムの開発に携わってきました。  
 2020年から日本に移住しました。データ分析やWebアプリケーション開発に強い関心を持ちます。
-チームで協力しながら課題を解決すること、  
-そして新しい技術を学び続けることが自分の強みです。
+チームで協力しながら課題を解決すること、そして新しい技術を学び続けることが自分の強みです。
 
 ---
 ### 🛠 技術スタック
@@ -45,7 +44,6 @@ WANG HUIMIN（おう けいみん）と申します。
 ## 🔗 連絡先・リンク
 
 - GitHub：[github.com/WANGHUIMIN](https://github.com/itc-ss24007)
-- Slack:[WANGHUIMIN](https://it-college.slack.com/archives/D06T9GSN057)
 - Email：s24007@std.it-college.ac.jp
 
 
