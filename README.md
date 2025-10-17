@@ -38,7 +38,7 @@ WANG HUIMIN（おう けいみん）と申します。
 ## 📌 プロジェクト紹介
 - 📝 [簡単メモアプリ](https://github.com/username/memo-app)  
 - 🍞 [かめしまぱん紹介サイト](https://github.com/username/kameshima-pan)  
-- 📺 [NHK番組情報サイト](https://github.com/username/nhk-program-viewer)  
+- 📺 [NHK番組情報サイト](https://github.com/itc-ss24007/my_project_nhk)  
 
 ---
 ## 🔗 連絡先・リンク
