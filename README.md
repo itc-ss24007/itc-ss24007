@@ -43,12 +43,13 @@ WANG HUIMIN（おう けいみん）と申します。
 | おすすめのお店紹介サイト| ITカレッジ沖縄の近くに、美味しいレストランやお菓子屋さんとかおすすめの店を紹介する静的サイト。| HTML / CSS / Bootstrap |
 | [NHK番組情報アプリ](https://web-app1-nhk.vercel.app/) | NHKのAPIを利用して、東京のニュース・ドラマ番組を一覧表示するWebアプリ。 | Next.js / TypeScript / Bootstrap / Vercel |
 | ToDo&メモアプリ | カレンダー型のスケジュール管理とメモ管理アプリ | Next.js / TypeScript / Supabase / Vercel |
-
+| 出席管理システム | IT専門学校で授業運営をスムーズにするための出席管理システム | Next.js / TypeScript / Tailwind css / Node.js + Express / Supabase / Vercel |
 
 ## 📌 プロジェクト紹介  
 - 🍞 [おすすめの店紹介サイト](https://github.com/itc-ss24007/My-Recommended-Shops-Website)  
 - 📺 [NHK番組情報サイト](https://github.com/itc-ss24007/my_project_nhk)
 - 📝 [ToDo&メモアプリ](https://github.com/itc-ss24007/my_pbl_todo_supabase_2025)
+- 🏫 [出席管理システム（教師・学生対応）](https://github.com/itc-ss24007/school-attendance-system)
 
 ---
 ## 🔗 連絡先・リンク
